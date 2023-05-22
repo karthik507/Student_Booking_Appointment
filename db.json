@@ -1,0 +1,89 @@
+{
+  "teacher": [
+    {
+      "name": "hemanth",
+      "department": "ISE",
+      "subject": "Java",
+      "id": 1
+    }
+  ],
+  "teacherRegister": [
+    {
+      "id": "karthik",
+      "password": "1234",
+      "name": "karthikshivanand",
+      "email": "karthik@mail.com"
+    },
+    {
+      "id": "kushal",
+      "password": "22222",
+      "name": "kushalduma",
+      "email": "kushalduma@mail.com"
+    },
+    {
+      "id": "NHRW_yG",
+      "password": "",
+      "name": "",
+      "email": ""
+    },
+    {
+      "id": "GllusVQ",
+      "password": "",
+      "name": "",
+      "email": ""
+    }
+  ],
+  "appointment": [
+    {
+      "studentname": "kushal kumar",
+      "bookname": "operating system",
+      "date": "22/06/2021",
+      "id": 1
+    },
+    {
+      "studentname": "darshan kumar",
+      "bookname": "data science",
+      "date": "22/02/2023",
+      "id": 2
+    }
+  ],
+  "message": [
+    {
+      "message": "Hello Sir/Madam iam requesting for appointment for taking the book name called Operating System and Data structure on date:",
+      "messageDate": "22/2/2212",
+      "id": 1
+    }
+  ],
+  "studentRegister": [
+    {
+      "id": "karthik",
+      "password": "1234",
+      "name": "karthikshivanand",
+      "email": "karthik@mail.com"
+    },
+    {
+      "id": "renuka",
+      "password": "12345678",
+      "name": "renuka gullanavar",
+      "email": "renuka@mail.com"
+    },
+    {
+      "id": "shivanand",
+      "password": "123221",
+      "name": "shivanand y",
+      "email": "shiva@mail.com"
+    },
+    {
+      "id": "awdaw",
+      "password": "dawd",
+      "name": "awda",
+      "email": "wadawd@mail.com"
+    },
+    {
+      "id": "awda",
+      "password": "wdawd",
+      "name": "adawdawdaw",
+      "email": "dawdawdawdawd@mail.com"
+    }
+  ]
+}
